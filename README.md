@@ -50,7 +50,6 @@ Cluster of volunteers:
 # Limitations
 - No health information available – can use to assess suitability of activities for those with impairments
 - Feedback from existing volunteers not included – will be useful to study how programmes can be revitalised, identify any trainings needed
-- Data set with missing values / varied formats of datasets
 - Volunteer activity of individuals may not be the complete picture - members engaged in other organisations / doing volunteering on their own initiative
 
 
