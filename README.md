@@ -7,9 +7,13 @@ The project was scoped to look at the past four years of activities and profile 
 
 # Problem statement
 To look at the volunteer database and activities conducted over 4 years (2015-2018) and study patterns:
+
 •	Profile of volunteers
+
 •	What activities are these volunteers most involved in? (Comparison of numbers)
+
 •	Clustering of volunteers based on activities they are involved in / hours they volunteer
+
 •	Engagement of volunteers and suggestions for continuing their involvement
 
 # Process
